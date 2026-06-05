@@ -1,5 +1,5 @@
 # EduBlitz Medical B2B ERP System
-
+# this readme file and project is dedicated for b38 batch
 A production-grade **Medical Domain B2B ERP** platform for hospitals, distributors, and medical vendors. Built with a microservices architecture on AWS infrastructure.
 
 ## Architecture Overview
